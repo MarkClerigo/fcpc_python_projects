@@ -32,3 +32,4 @@ elif division > subtraction:
     print("OKay lang")
 else:
     print("Mamaya nalang")
+ 
