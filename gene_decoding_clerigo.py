@@ -58,5 +58,5 @@ for x in range(len(name)):
         random += "A"
     else:
         random += char
-
+        
 print(random)
