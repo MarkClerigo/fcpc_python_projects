@@ -13,8 +13,8 @@ for y in range(4,49,4):
 print("\nBy 12")
 for z in range(12,121,12):
     print(z)
-
-    #nested loop sample
+    
+#nested loop sample
 print("\nMultiplication Table By 10 to 20")
 for a in range(10,21):
     for b in range(1,11):
